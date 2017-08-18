@@ -1,7 +1,6 @@
 # Release name
 PRODUCT_RELEASE_NAME := kylepro
 
-
 # Inherit some common HEXAGON stuff.
 $(call inherit-product, vendor/hexagon/configs/common.mk)
 
